@@ -1,3 +1,4 @@
+[![Travis](https://img.shields.io/badge/language-Java-yellow.svg)](https://developer.apple.com/)
 # JackCompiler
 Compiles the high level Jack language files under a directory to the Virtual Machine language specified in the textbook Nand2Tetris (https://www.nand2tetris.org/).
 # COMPILATION AND RUNNING OF THE JACK COMPILER PROGRAM
